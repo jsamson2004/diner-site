@@ -1,0 +1,54 @@
+/* #885A89 background color? gray ish
+#B7918C or #6A3937 #DD403A panel color 
+#3E363F text?
+#FFFCE8 white ish */
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+    color: rgb(223, 218, 191);
+}
+
+#text {
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(223, 218, 191);
+}
+
+#diner {
+    text-align: center;
+
+}
+
+#img {
+    width: 800px;
+    height: 1200px;
+}
+
+/* #header {
+  min-height: 100px;
+  width: 100%;
+  background-color: red;
+} */
+
+body {
+    background-color: #3E363F;
+}
+
+/* name: olympia diner
+
+fonts :
+header title thing https://fonts.google.com/specimen/Otomanopee+One
+main text : https://fonts.google.com/specimen/PT+Sans
+
+photo:
+inside : https://media.istockphoto.com/photos/theres-enough-place-for-everyone-picture-id956025576?k=6&m=956025576&s=612x612&w=0&h=2RXP3lj1A1jD99_2JtV2MxjkgejG9NMrpW0s-FAT6eg=
+outside : https://images.squarespace-cdn.com/content/v1/5299d471e4b0316936dfea7e/1396714935308-35UOLYNWGU0GB5G9Y90H/Diner+Steve%27s+Favorite.jpg?format=2500w */
